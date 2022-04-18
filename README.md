@@ -1,8 +1,15 @@
-### Olá! Eu sou a Daiane Gouvêa 👋
+<header>
+  <h1>Olá! Eu sou a Daiane Gouvêa 👋</h1>
+</header>
 
-- 🔭 Eu atualmente trabalho como Desenvolvedora Jr Fullstack com Ruby on Rails e faço algumas correções em aplicativos Flutter
-- 🌱 Estou aprendendo mais sobre Flutter e Front-end, mas sempre me empenhando no Fullstack e estudando as melhores praticas...
-- 📫 Contacte-me pelo email: daianegouvea.dev@gmail.co
+<div style="display: inline_block"><br>
+  <img align="right" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202204/516657_SpUpFkE4.png">
+  
+  <li>🔭 Eu atualmente trabalho como Desenvolvedora Jr Fullstack com Ruby on Rails e faço algumas correções em aplicativos Flutter</li>
+  <li>🌱 Estou aprendendo mais sobre Flutter e Front-end, mas sempre me empenhando no Fullstack e estudando as melhores praticas...</li>
+  <li>📫 Contacte-me pelo email: daianegouvea.dev@gmail.com</li>
+                                                                                                               
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
