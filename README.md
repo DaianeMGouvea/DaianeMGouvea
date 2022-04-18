@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Daiane Gouvêa 👋
 
 - 🔭 Eu atualmente trabalho como Desenvolvedora Jr Fullstack com Ruby on Rails e faço algumas correções em aplicativos Flutter
-- 🌱 Estou aprendendo mais sobre FLutter e Front-end, mas sempre me empenhando no Fullstack e estudando as melhores praticas...
+- 🌱 Estou aprendendo mais sobre Flutter e Front-end, mas sempre me empenhando no Fullstack e estudando as melhores praticas...
 - 📫 Contacte-me pelo email: daianegouvea.dev@gmail.co
 
 <div style="display: inline_block"><br>
