@@ -4,10 +4,6 @@
 
 <div style="display: inline_block"><br>
   <img align="right" height="150" style="border-radius:50px;" src="https://picrew.me/shareImg/org/202204/516657_SpUpFkE4.png">
-  
-  <li>🔭 Eu atualmente trabalho como Desenvolvedora Jr Fullstack com Ruby on Rails e faço algumas correções em aplicativos Flutter</li>
-  <li>🌱 Estou aprendendo mais sobre Flutter e Front-end, mas sempre me empenhando no Fullstack e estudando as melhores praticas...</li>
-  <li>📫 Contacte-me pelo email: daianegouvea.dev@gmail.com</li>
                                                                                                                
 </div>
 
